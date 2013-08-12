@@ -3,7 +3,7 @@
 #   DESCRIPTION:  oh-my-zsh theme file.
 #        AUTHOR:  Domingo Suarez Torres (domingo.suarez@gmail.com) 
 #       VERSION:  0.1
-#    SCREENSHOT:  
+#    SCREENSHOT:  http://farm4.staticflickr.com/3803/9492597248_646f9c9204_o_d.jpg
 # ------------------------------------------------------------------------------
 
 if [[ -z $ZSH_THEME_DMX_PREFIX ]]; then
